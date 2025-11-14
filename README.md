@@ -1,12 +1,12 @@
-♟️ Desafio Final — Criando Movimentos Complexos (Xadrez em C)
-🧩 Descrição do Projeto
+Desafio Final — Criando Movimentos Complexos (Xadrez em C)
+Descrição do Projeto
 
 Este projeto é o desafio final do módulo de Estruturas de Repetição em C, cujo objetivo é aplicar recursividade e loops aninhados/complexos para simular os movimentos das principais peças do xadrez.
 
 O código implementa o comportamento das peças Torre, Bispo, Rainha e Cavalo, de forma individual e didática, com foco no uso de técnicas avançadas de programação.
 
-🧠 Funcionalidades Implementadas
-♜ Torre
+Funcionalidades Implementadas
+Torre
 
 Movimento em linha reta (horizontal ou vertical).
 
@@ -18,7 +18,7 @@ Direita
 Direita
 Direita
 
-♝ Bispo
+Bispo
 
 Movimento nas diagonais do tabuleiro.
 
@@ -29,7 +29,7 @@ Exemplo de saída:
 Diagonal Cima Direita
 Diagonal Baixo Esquerda
 
-♛ Rainha
+Rainha
 
 Combina os movimentos da Torre e do Bispo.
 
@@ -40,7 +40,7 @@ Exemplo de saída:
 Esquerda
 Esquerda
 
-♞ Cavalo
+Cavalo
 
 Movimento em “L”: duas casas para cima e uma para a direita.
 
@@ -52,7 +52,7 @@ Cima
 Cima
 Direita
 
-⚙️ Estrutura do Código
+Estrutura do Código
 
 O programa principal (xadrez.c) contém:
 
@@ -64,16 +64,21 @@ Impressões organizadas e separadas por seções.
 
 Comentários explicativos sobre lógica e funcionamento dos loops e recursões.
 
-🧾 Requisitos Atendidos
+Requisitos Atendidos
 
-✅ Recursividade: implementada na Torre, Bispo e Rainha.
-✅ Loops aninhados: utilizados no Bispo e Cavalo.
-✅ Controle de fluxo: uso de continue e break.
-✅ Saída formatada: direções claras e legíveis no console.
-✅ Código documentado: comentários descritivos em cada função.
-✅ Performance e legibilidade: sem loops infinitos, indentação e nomes adequados.
+Recursividade: implementada na Torre, Bispo e Rainha.
 
-💻 Execução
+Loops aninhados: utilizados no Bispo e Cavalo.
+
+Controle de fluxo: uso de continue e break.
+
+Saída formatada: direções claras e legíveis no console.
+
+Código documentado: comentários descritivos em cada função.
+
+Performance e legibilidade: sem loops infinitos, indentação e nomes adequados.
+
+Execução
 
 Compile o programa:
 
